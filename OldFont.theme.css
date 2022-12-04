@@ -1,0 +1,15 @@
+/**
+ * @name Old Discord Font Theme
+ * @author Jecobe | Jecobe#0592
+ * @authorLink https://youtube.com/Jecobe
+ * @version 1.0.0
+ * @description Want the old discord font back? This theme is for you!
+ * @source 
+ * @website https://youtube.com/Jecobe
+*/
+
+@import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
+
+:root {
+	--font-primary: Whitney;
+ }
