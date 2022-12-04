@@ -8,7 +8,7 @@
  * @website https://youtube.com/Jecobe
 */
 
-@import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
+@import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 
 :root {
 	--font-primary: Whitney;
